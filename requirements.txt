@@ -1,0 +1,5 @@
+bleak==0.20.2
+loguru==0.7.0
+matplotlib==3.7.2
+nest_asyncio==1.5.7
+numpy==1.25.2
